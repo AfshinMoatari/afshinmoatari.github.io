@@ -1,7 +1,7 @@
 # Site settings
 title: Afshin Moatari
 description: 'Web Developer with FrontEnd focus and passion for Web Design'
-url: 'afshinmoatari.github.io/'
+url: 'afshinmoatari.github.io'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
