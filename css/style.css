@@ -1531,14 +1531,14 @@ nav {
 .navigation--social {
 	margin: 15px auto; }
 	.navigation--social a {
-		padding: 7px 9px 7px 10px; }
+		padding: 7px 9px; }
 		.navigation--social a.extra {
 			padding: 7px; }
 			.navigation--social a .label {
 				display: none; }
 				.navigation--social a .icon, .navigation--social a .icon-extra  {
 					display: block;
-					font-size: 1.2em; }
+					font-size: 1.3em; }
 
 .pagination {
 	display: block;
