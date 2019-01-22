@@ -42,13 +42,15 @@ $(document).ready(function () {
   }
 
   if (window.location.hash && window.location.hash == '#about') {
-    $('.panel-cover').addClass('panel-cover--collapsed')
+    
     if(window.location.hash == '#about') {
       $('#about').addClass('show')
     }
   }
 
-  
+  if (window.location.pathname !== '{{ site.baseurl }}' && window.location.pathname !== '{{ site.baseurl }}index.html') {
+    $('.panel-cover').addClass('panel-cover--collapsed')
+  }
 
   $('.btn-mobile-menu').click(function () {
     $('.btn-mobile-menu').toggleClass('activated')
