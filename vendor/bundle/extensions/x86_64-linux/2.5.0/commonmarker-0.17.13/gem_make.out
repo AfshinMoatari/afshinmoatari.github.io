@@ -1,5 +1,5 @@
 current directory: /mnt/c/Users/afshi/desktop/jekyll/afshinmoatari.github.io-master/vendor/bundle/gems/commonmarker-0.17.13/ext/commonmarker
-/usr/bin/ruby2.5 -I /usr/local/lib/site_ruby/2.5.0 -r ./siteconf20190122-4875-193yyc1.rb extconf.rb
+/usr/bin/ruby2.5 -I /usr/local/lib/site_ruby/2.5.0 -r ./siteconf20190122-28-xrux45.rb extconf.rb
 creating Makefile
 
 current directory: /mnt/c/Users/afshi/desktop/jekyll/afshinmoatari.github.io-master/vendor/bundle/gems/commonmarker-0.17.13/ext/commonmarker
@@ -67,4 +67,4 @@ linking shared-object commonmarker/commonmarker.so
 
 current directory: /mnt/c/Users/afshi/desktop/jekyll/afshinmoatari.github.io-master/vendor/bundle/gems/commonmarker-0.17.13/ext/commonmarker
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 commonmarker.so ./.gem.20190122-4875-1j05phx/commonmarker
+/usr/bin/install -c -m 0755 commonmarker.so ./.gem.20190122-28-1uxs6jm/commonmarker

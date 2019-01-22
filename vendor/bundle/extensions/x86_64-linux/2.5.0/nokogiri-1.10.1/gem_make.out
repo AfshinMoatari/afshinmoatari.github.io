@@ -1,5 +1,5 @@
 current directory: /mnt/c/Users/afshi/desktop/jekyll/afshinmoatari.github.io-master/vendor/bundle/gems/nokogiri-1.10.1/ext/nokogiri
-/usr/bin/ruby2.5 -I /usr/local/lib/site_ruby/2.5.0 -r ./siteconf20190122-4875-1ol2p3x.rb extconf.rb --use-system-libraries
+/usr/bin/ruby2.5 -I /usr/local/lib/site_ruby/2.5.0 -r ./siteconf20190122-28-1lz32s.rb extconf.rb --use-system-libraries
 checking if the C compiler accepts ... yes
 Building nokogiri using system libraries.
 checking for xmlParseDoc() in libxml/parser.h... yes
@@ -111,4 +111,4 @@ rm -rf /mnt/c/Users/afshi/desktop/jekyll/afshinmoatari.github.io-master/vendor/b
 
 current directory: /mnt/c/Users/afshi/desktop/jekyll/afshinmoatari.github.io-master/vendor/bundle/gems/nokogiri-1.10.1/ext/nokogiri
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 nokogiri.so ./.gem.20190122-4875-1s3r1gv/nokogiri
+/usr/bin/install -c -m 0755 nokogiri.so ./.gem.20190122-28-158rt5w/nokogiri

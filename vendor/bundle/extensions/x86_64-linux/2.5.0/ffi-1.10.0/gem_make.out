@@ -1,5 +1,5 @@
 current directory: /mnt/c/Users/afshi/desktop/jekyll/afshinmoatari.github.io-master/vendor/bundle/gems/ffi-1.10.0/ext/ffi_c
-/usr/bin/ruby2.5 -I /usr/local/lib/site_ruby/2.5.0 -r ./siteconf20190122-4875-1wmi3n7.rb extconf.rb
+/usr/bin/ruby2.5 -I /usr/local/lib/site_ruby/2.5.0 -r ./siteconf20190122-28-zrdmlj.rb extconf.rb
 /usr/lib/ruby/2.5.0/mkmf.rb:1554: warning: Insecure world writable dir /mnt/c in PATH, mode 040777
 checking for ffi.h... no
 checking for ffi.h in /usr/local/include,/usr/include/ffi... no
@@ -158,4 +158,4 @@ compiling Types.c
 compiling Variadic.c
 compiling ffi.c
 linking shared-object ffi_c.so
-/usr/bin/install -c -m 0755 ffi_c.so ./.gem.20190122-4875-1okxp4h
+/usr/bin/install -c -m 0755 ffi_c.so ./.gem.20190122-28-h5upnl
