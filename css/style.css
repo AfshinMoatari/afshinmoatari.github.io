@@ -1830,10 +1830,6 @@ hr {
   transition: all 0.5s;
 }
 
-.cover-navigation--primary .navigation__item a:hover {
-  border: 1.5px solid #fff;
-}
-
 .cover-navigation--primary .navigation__item a::before,
 .cover-navigation--primary .navigation__item a::after {
   width: 100%;
@@ -1858,11 +1854,6 @@ hr {
   border-top: 1px solid #FFF;
   border-right: 1px solid #FFF;
   -webkit-transform-origin: 100% 0%;
-}
-
-.cover-navigation--primary .navigation__item a:hover::before,
-.cover-navigation--primary .navigation__item a:hover::after {
-  -webkit-transform: scale(1);
 }
 
 .navigation--social .navigation__item a::after {
