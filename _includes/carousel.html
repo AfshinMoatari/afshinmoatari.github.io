@@ -1,0 +1,50 @@
+<script type="text/javascript">
+    const imagesPerView = 4; // Number of images to show at once
+    
+    function moveCarousel(carouselId, direction) {
+        const carousel = document.getElementById(carouselId);
+        const imageRow = carousel.querySelector('.image-row');
+        const images = imageRow.children;
+        const totalImages = images.length;
+    
+        // Find the current index of the first visible image
+        let currentIndex = Array.from(images).findIndex(img => img.style.display !== 'none');
+    
+        // Hide the current images
+        for (let i = 0; i < imagesPerView; i++) {
+            if (currentIndex + i < totalImages) {
+                images[currentIndex + i].style.display = 'none';
+            }
+        }
+    
+        // Calculate the new index
+        currentIndex = (currentIndex + direction * imagesPerView + totalImages) % totalImages;
+    
+        // Show the new images
+        for (let i = 0; i < imagesPerView; i++) {
+            const newIndex = currentIndex + i;
+            if (newIndex < totalImages) {
+                images[newIndex].style.display = 'block';
+            }
+        }
+    }
+    
+    // Initialize each carousel
+    document.addEventListener('DOMContentLoaded', function() {
+        const carousels = document.querySelectorAll('.carousel-container');
+        carousels.forEach(carousel => {
+            const imageRow = carousel.querySelector('.image-row');
+            const images = imageRow.children;
+    
+            // Hide all images initially
+            for (let i = 0; i < images.length; i++) {
+                images[i].style.display = 'none';
+            }
+    
+            // Show the first set of images
+            for (let i = 0; i < Math.min(imagesPerView, images.length); i++) {
+                images[i].style.display = 'block';
+            }
+        });
+    });
+    </script>
