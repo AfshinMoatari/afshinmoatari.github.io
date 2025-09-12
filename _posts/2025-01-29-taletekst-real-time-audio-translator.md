@@ -1,21 +1,21 @@
 ---
 layout: post
-title: TaleTekst® | Real-time Audio Translator
+title: TaleTekst | Real-time Audio Translator
 categories:
 - projects
 ---
 
-**TaleTekst®** is a Firefox extension that provides real-time audio translation for any language. Born from a personal need to learn Danish through YouTube videos, this extension captures audio from web pages and translates speech in real-time using AI/LLM services.
+**TaleTekst** is a Firefox extension that provides real-time audio translation for any language. Born from a personal need to learn Danish through YouTube videos, this extension captures audio from web pages and translates speech in real-time using AI/LLM services.
 
-## The Story Behind TaleTekst®
+## The Story Behind TaleTekst
 
-As someone who learns better through speech and audio, I found myself struggling to find a free, easy solution to translate Danish YouTube videos in real-time while learning the language. This personal challenge became the inspiration for TaleTekst® - a practical tool that could help not just me, but anyone facing similar language barriers.
+As someone who learns better through speech and audio, I found myself struggling to find a free, easy solution to translate Danish YouTube videos in real-time while learning the language. This personal challenge became the inspiration for TaleTekst - a practical tool that could help not just me, but anyone facing similar language barriers.
 
 The idea was simple: create a Firefox extension that could capture audio from any webpage and provide instant translation to English. What started as a personal project to support my Danish learning journey has evolved into a universal solution that works with any language, making foreign content accessible to everyone.
 
 ## Project Overview
 
-TaleTekst® breaks down language barriers by providing instant translation of spoken content directly on your screen. Whether you're learning a new language, watching international content, or need accessibility support, this extension makes foreign audio content immediately understandable.
+TaleTekst breaks down language barriers by providing instant translation of spoken content directly on your screen. Whether you're learning a new language, watching international content, or need accessibility support, this extension makes foreign audio content immediately understandable.
 
 ### Key Features
 
@@ -105,8 +105,8 @@ Here are some images showcasing the TaleTekst extension interface and functional
 
 ## Future Development
 
-This project represents an ongoing commitment to making language learning and international content more accessible. I continue to develop and improve TaleTekst® with better performance, enhanced UI, and additional features as time permits. The goal is to maintain and evolve this tool to serve the community that shares the same need for real-time language translation.
+This project represents an ongoing commitment to making language learning and international content more accessible. I continue to develop and improve TaleTekst with better performance, enhanced UI, and additional features as time permits. The goal is to maintain and evolve this tool to serve the community that shares the same need for real-time language translation.
 
-What started as a personal solution for learning Danish has become a universal tool that supports any language, making foreign content accessible to users worldwide. TaleTekst® demonstrates how personal challenges can lead to solutions that benefit the broader community.
+What started as a personal solution for learning Danish has become a universal tool that supports any language, making foreign content accessible to users worldwide. TaleTekst demonstrates how personal challenges can lead to solutions that benefit the broader community.
 
-Feel free to reach out if you have any questions or need further information about the TaleTekst® extension!
+Feel free to reach out if you have any questions or need further information about the TaleTekst extension!
