@@ -61,11 +61,11 @@ TaleTekst® breaks down language barriers by providing instant translation of sp
 
 ### Project Status
 
-✅ **Completed**: Production-ready Firefox extension  
-✅ **Submitted**: Firefox Add-ons store submission  
-✅ **Open Source**: Available on GitHub  
-✅ **Documentation**: Comprehensive documentation and privacy policy  
-🔄 **Ongoing**: Continuous development and UI improvements
+**Completed**: Production-ready Firefox extension  
+**Submitted**: Firefox Add-ons store submission  
+**Open Source**: Available on GitHub  
+**Documentation**: Comprehensive documentation and privacy policy  
+**Ongoing**: Continuous development and UI improvements
 
 ### Project Repositories
 
