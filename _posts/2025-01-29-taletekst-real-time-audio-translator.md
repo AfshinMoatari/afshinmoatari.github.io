@@ -70,7 +70,7 @@ TaleTekst breaks down language barriers by providing instant translation of spok
 ### Project Repositories
 
 - **GitHub Repository**: View the complete source code and documentation at [TaleTekst on GitHub](https://github.com/AfshinMoatari/TaleTekst)
-- **Firefox Add-ons Store**: Download the extension from [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/taletekst-real-time-audio-translator/)
+- **Firefox Add-ons Store**: Download the extension from [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/taletekst-real-time-translator/)
 
 ### Screenshots
 
